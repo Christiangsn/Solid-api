@@ -1,0 +1,18 @@
+//* 01 - Open Closed Principle
+    Adicionar comportamento sem alterar o controllador
+
+//* Dependency Inversion
+ - Principio da Inversão de dependencia
+ - Classes de validações aponta para classe de Apresentação
+
+- Decorator:
+
+- Composite: (Design Pattern interno para implementada o OCP)
+    Adicionar comportamento sem alterar o controllador
+    Lugares no sistema responsável para criar instancias das Classes
+
+    Classe para compor outras Classes
+    Compor outras validações além das da classes recebidas
+
+
+- Proxy:
